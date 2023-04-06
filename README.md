@@ -1,3 +1,7 @@
 # project-Internet-applications
+## project idea :
 website similar to Fiverr with our own design
-HTML And CSS,JS are used and in addition the Bootstrap framework
+## Language 
+HTML And CSS,JS
+## framework
+Bootstrap 
